@@ -1,0 +1,7 @@
+# competition data and cached features are not part of the repository
+data/
+cache_final/
+results.json
+
+__pycache__/
+.ipynb_checkpoints/
